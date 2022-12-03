@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParthMurge
-- 👀 I’m interested in languages like java, html, css ,js, python
-- 🌱 I’m currently learning java, html
+- 👀 I’m interested in languages like java, html, css , python
+- 🌱 I’m currently learning java, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ parthsm2001@gmail.com
 
